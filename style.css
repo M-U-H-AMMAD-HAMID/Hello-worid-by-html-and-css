@@ -1,0 +1,27 @@
+#main{
+    width: 105px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 15px;
+}
+#red{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    border: 2px;
+}
+#orn{
+     height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:orange;
+    border: 2px;
+}
+#yell{
+     height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(94, 255, 0);
+    border: 2px;
+}
